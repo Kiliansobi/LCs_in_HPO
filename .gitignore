@@ -2,3 +2,4 @@ __pycache__
 yahpo_data-main
 .DS_Store
 *.csv
+testing.ipynb
